@@ -1,3 +1,5 @@
+# 💫 About Me:		
+
 👋 Hi, I'm Aayush Agrawal  
 💡 Passionate about solving real-world problems with technology  
 🌱 Currently learning **DSA in C++** and exploring **Web Development (MERN Stack)**  
