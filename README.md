@@ -6,8 +6,7 @@
 🤝 Open to collaborating on exciting tech projects and internships  
 📫 Reach me at: **aayushagrawal130@gmail.com**
 
-## 🔗 Connect with me  
-
+## 🌐 Socials:
 <p align="left">
   <a href="https://www.linkedin.com/in/aayush-agrawal-6382ab323" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
