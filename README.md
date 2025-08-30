@@ -38,6 +38,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkg2005&theme=tokyonight" alt="streak"/>
+</p>
+
 
 
 
