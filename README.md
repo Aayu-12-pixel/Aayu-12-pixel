@@ -38,10 +38,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## ⚡ Tools I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,react,redux,vite,mysql,git,github" />
-</p>
+
 
 
 
